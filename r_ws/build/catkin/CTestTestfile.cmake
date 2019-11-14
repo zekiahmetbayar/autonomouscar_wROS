@@ -1,0 +1,10 @@
+# CMake generated Testfile for 
+# Source directory: /home/ahmetb/r_ws/src/catkin
+# Build directory: /home/ahmetb/r_ws/build/catkin
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_catkin_nosetests_test.local_tests "/home/ahmetb/r_ws/build/catkin_generated/env_cached.sh" "/usr/bin/python2" "/home/ahmetb/r_ws/src/catkin/cmake/test/run_tests.py" "/home/ahmetb/r_ws/build/test_results/catkin/nosetests-test.local_tests.xml" "--return-code" "\"/usr/local/bin/cmake\" -E make_directory /home/ahmetb/r_ws/build/test_results/catkin" "/usr/bin/nosetests-2.7 -P --process-timeout=60 --where=/home/ahmetb/r_ws/src/catkin/test/local_tests --with-xunit --xunit-file=/home/ahmetb/r_ws/build/test_results/catkin/nosetests-test.local_tests.xml")
+set_tests_properties(_ctest_catkin_nosetests_test.local_tests PROPERTIES  _BACKTRACE_TRIPLES "/home/ahmetb/r_ws/src/catkin/cmake/test/tests.cmake;143;add_test;/home/ahmetb/r_ws/src/catkin/cmake/test/nosetests.cmake;83;catkin_run_tests_target;/home/ahmetb/r_ws/src/catkin/CMakeLists.txt;26;catkin_add_nosetests;/home/ahmetb/r_ws/src/catkin/CMakeLists.txt;0;")
+add_test(_ctest_catkin_nosetests_test.unit_tests "/home/ahmetb/r_ws/build/catkin_generated/env_cached.sh" "/usr/bin/python2" "/home/ahmetb/r_ws/src/catkin/cmake/test/run_tests.py" "/home/ahmetb/r_ws/build/test_results/catkin/nosetests-test.unit_tests.xml" "--return-code" "\"/usr/local/bin/cmake\" -E make_directory /home/ahmetb/r_ws/build/test_results/catkin" "/usr/bin/nosetests-2.7 -P --process-timeout=60 --where=/home/ahmetb/r_ws/src/catkin/test/unit_tests --with-xunit --xunit-file=/home/ahmetb/r_ws/build/test_results/catkin/nosetests-test.unit_tests.xml")
+set_tests_properties(_ctest_catkin_nosetests_test.unit_tests PROPERTIES  _BACKTRACE_TRIPLES "/home/ahmetb/r_ws/src/catkin/cmake/test/tests.cmake;143;add_test;/home/ahmetb/r_ws/src/catkin/cmake/test/nosetests.cmake;83;catkin_run_tests_target;/home/ahmetb/r_ws/src/catkin/CMakeLists.txt;27;catkin_add_nosetests;/home/ahmetb/r_ws/src/catkin/CMakeLists.txt;0;")

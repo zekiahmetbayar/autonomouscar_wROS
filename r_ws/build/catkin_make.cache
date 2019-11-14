@@ -1,0 +1,2 @@
+ackermann_vehicle/ackermann_vehicle:ackermann_vehicle/ackermann_vehicle_description:ackermann_vehicle/ackermann_vehicle_gazebo:catkin:examplelib:getmavros:getstatenode:lib_client:obstaclestopper:qt_example:ros_essentials_cpp
+-DCATKIN_DEVEL_PREFIX=/home/ahmetb/r_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ahmetb/r_ws/install -G Unix Makefiles

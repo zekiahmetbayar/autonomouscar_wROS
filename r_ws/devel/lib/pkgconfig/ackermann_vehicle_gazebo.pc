@@ -1,0 +1,8 @@
+prefix=/home/ahmetb/r_ws/devel
+
+Name: ackermann_vehicle_gazebo
+Description: Description of ackermann_vehicle_gazebo
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/ahmetb/r_ws/devel/lib 
+Requires: 

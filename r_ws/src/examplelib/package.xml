@@ -1,0 +1,18 @@
+<package>
+  <!-- Package Metadata -->
+  <name>examplelib</name>
+  <maintainer email="thomasburns@gmail.com">Thomas Burns</maintainer>
+  <description>
+    A commong library to store code use in all sub-projects.
+  </description>
+  <version>0.0.1</version>
+  <license>MIT</license>
+
+  <!-- Required by Catkin -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!-- Package Dependencies -->
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+  <test_depend>gtest</test_depend>
+</package>

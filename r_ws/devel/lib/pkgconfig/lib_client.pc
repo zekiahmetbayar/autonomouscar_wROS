@@ -1,0 +1,8 @@
+prefix=/home/ahmetb/r_ws/devel
+
+Name: lib_client
+Description: Description of lib_client
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/ahmetb/r_ws/devel/lib 
+Requires: message_runtime

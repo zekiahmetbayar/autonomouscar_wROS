@@ -1,0 +1,8 @@
+prefix=/home/ahmetb/r_ws/devel
+
+Name: qt_example
+Description: Description of qt_example
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/ahmetb/r_ws/devel/lib 
+Requires: geometry_msgs message_runtime std_msgs std_srvs

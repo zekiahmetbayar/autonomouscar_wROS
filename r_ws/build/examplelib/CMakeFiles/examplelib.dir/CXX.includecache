@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmetb/r_ws/src/examplelib/include/examplelib/examplelib.h
+
+/home/ahmetb/r_ws/src/examplelib/src/examplesrc.cpp
+examplelib/examplelib.h
+/home/ahmetb/r_ws/src/examplelib/src/examplelib/examplelib.h
+cmath
+-
+

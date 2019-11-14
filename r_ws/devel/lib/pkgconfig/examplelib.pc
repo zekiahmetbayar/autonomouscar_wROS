@@ -1,0 +1,8 @@
+prefix=/home/ahmetb/r_ws/devel
+
+Name: examplelib
+Description: Description of examplelib
+Version: 0.0.1
+Cflags: -I/home/ahmetb/r_ws/src/examplelib/include
+Libs: -L/home/ahmetb/r_ws/devel/lib -lexamplelib
+Requires: roscpp

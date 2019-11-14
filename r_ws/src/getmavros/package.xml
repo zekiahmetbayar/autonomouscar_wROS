@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>getmavros</name>
+  <version>0.0.0</version>
+  <description>The getstatenode package</description>
+
+  <maintainer email="ahmtbicertr@gmail.com">ahmetb</maintainer>
+
+  <license>TODO</license>
+
+  <url type="website">ahmetb.com</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>gazebo_msgs</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_export_depend>gazebo_msgs</build_export_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <exec_depend>gazebo_msgs</exec_depend>
+  <exec_depend>rospy</exec_depend>
+
+  <export>
+
+  </export>
+</package>

@@ -1,0 +1,8 @@
+prefix=/home/ahmetb/r_ws/devel
+
+Name: getmavros
+Description: Description of getmavros
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ahmetb/r_ws/devel/lib 
+Requires: 
