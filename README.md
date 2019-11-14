@@ -9,9 +9,13 @@ It is completely free software.
 
 You must first have the following programs :
     1- ROS, MavROS
+   
     2- QGroundControlPane
+    
     3- Python
+    
     4- QT5
+    
     5- Gazebo
 
 My project related articles are given below.
