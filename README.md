@@ -19,6 +19,9 @@ You must first have the following programs :
 
 5-Gazebo
 
+After installing programs, all you need to do is apply your ROS information.
+
+
 My project related articles are given below.
 
 http://derleyicihatasi.com/genel/otonom-arac-projesi-w-ros/
